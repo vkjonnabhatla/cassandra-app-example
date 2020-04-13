@@ -9,5 +9,4 @@ public class CassandraAppExampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CassandraAppExampleApplication.class, args);
 	}
-
 }
